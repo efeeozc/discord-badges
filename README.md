@@ -1,2 +1,2 @@
 # discord-badges
-All Discord badges in SVG and PNG formats
+All the Discord badges in SVG and PNG formats
